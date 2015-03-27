@@ -1,0 +1,13 @@
+{
+  "name": "filer-dialogs",
+  "main": "filer-dialogs.js",
+  "version": "0.0.0",
+  "authors": [
+    "scottdowne <scott.downe@gmail.com>"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "preinstall": "npm install -g bower",
+    "install": "bower install"
+  }
+}
